@@ -1,1 +1,40 @@
+body{
+    margin:0px;
+    padding:0px;
+}
 
+header{
+    background-color : darkgreen;
+    color: white;
+    height: 6em;
+}
+
+header h1{
+    font-size: 34px;
+    text-align:center;
+    font-family:sans-serif;
+}
+
+main{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+p{
+
+}
+
+footer{
+
+}
+
+footer p{
+
+}
